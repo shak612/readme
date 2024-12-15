@@ -7,21 +7,17 @@ The project timeline outlines the schedule for each milestone in the development
 
 | Milestone No. | Description                                                            | Duration  | Start Date  | End Date    | Key Deliverables                                                |
 |----------------|------------------------------------------------------------------------|-----------|-------------|-------------|---------------------------------------------------------------|
-| **Milestone 1**| Registration      | 1 weeks   | 16-Dec-2024 | 22-Dec-2024 | - Guest can register his selfie with their information<br>- Guest will get their gallery link on their email<br>-  |
-| **Milestone 2**| User Registration & Dashboard with Email Verification                   | 3 weeks   | 30-Nov-2023 | 20-Dec-2023 | - User registration process<br>- Personalized User Dashboard     |
-| **Milestone 3**| Event Creation, Cameraman Assignment, and Event Expiration              | 4 weeks   | 21-Dec-2023 | 17-Jan-2024 | - Dynamic event links<br>- Cameramen login<br>- Event expiration settings |
-| **Milestone 4**| QR Generation, Brand Editor, and Guest Data Collection                  | 3 weeks   | 18-Jan-2024 | 07-Feb-2024 | - QR code generation<br>- Brand editor<br>- Guest information page |
-| **Milestone 5**| Image Upload and Storage Architecture & Image Compression                | 4 weeks   | 08-Feb-2024 | 06-Mar-2024 | - Image upload architecture<br>- Image compression system       |
-| **Milestone 6**| Image Selection for Clients                                             | 3 weeks   | 07-Mar-2024 | 27-Mar-2024 | - Client image review page<br>- Image removal functionality     |
-| **Milestone 7**| AWS Rekognition Service for Image Processing                             | 3 weeks   | 28-Mar-2024 | 17-Apr-2024 | - Integration of AWS Rekognition for image processing           |
-| **Milestone 8**| SSL and Security Implementation                                          | 2 weeks   | 18-Apr-2024 | 02-May-2024 | - SSL encryption implementation<br>- Additional security measures |
-| **Milestone 9**| Payment Gateway Integration & Dynamic Plan Architecture                  | 4 weeks   | 03-May-2024 | 30-May-2024 | - Payment gateway integration<br>- Dynamic pricing model        |
-| **Milestone 10**| Final Testing, Bug Fixes & Commissioning                               | 3 weeks   | 31-May-2024 | 20-Jun-2024 | - Comprehensive testing<br>- Final deployment                   |
+| **Milestone 1**| Registration & Migration into new template     | 1 weeks   | 16-Dec-2024 | 22-Dec-2024 | - Guest can register his selfie with their information<br>- While registering selfie verify that only single person should be in selfie <br>- Guest will get their gallery link on their email<br>- Existing Application migration into new template |
+| **Milestone 2**| Image Publishing Logic & Gallery Page    | 1 weeks   | 23-Dec-2024 | 30-Dec-2024 | - When images get's publish then guest's get their images on their gallery.<br>- Automated email's for guests when any Image detects.<br>- Gallery Page for guest's.      |
+| **Milestone 3**| Gallery Page Feature's   | 1 weeks   | 02-Jan-2025 | 09-Jan-2025 | - Guest can get their photo's by clicking on their photo's<br>- Guest can upload someone selfie to get their photos.<br>- Guest can hide photos's and can see hidden photos by inserting password<br>- Guest can register someone selfie on event So, when they click their selfie then they get their selfie also. |
+| **Milestone 4**| Compression Logic change, migration ec2 large to medium. | 1 weeks   | 10-Jan-2025 | 17-Jan-2025 | - Improving compression logic<br>- Migration ec2 to medium machine for cost effect. |
+| **Milestone 5**| Final Testing, Bug Fixes & Any add ons.  | 1 weeks   | 18-Jan-2025 | 25-Jan-2025 | - Application testing and any bug fixing task will be cover in this week and also any add ons will be apply in this week.       |
+Final deployment                   |
 
 ### Summary
-- **Total Project Duration:** Approximately 30 weeks
-- **Start Date:** 01-Nov-2023
-- **End Date:** 20-Jun-2024
+- **Total Project Duration:** Approximately 5 weeks
+- **Start Date:** 16-Dec-2024
+- **End Date:** 25-Jan-2025
 
 ### Notes
 - Each milestone must be completed before proceeding to the next, allowing for thorough testing and integration of components.
