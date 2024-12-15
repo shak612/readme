@@ -7,7 +7,7 @@ The project timeline outlines the schedule for each milestone in the development
 
 | Milestone No. | Description                                                            | Duration  | Start Date  | End Date    | Key Deliverables                                                |
 |----------------|------------------------------------------------------------------------|-----------|-------------|-------------|---------------------------------------------------------------|
-| **Milestone 1**| Super Admin Page and Dashboard & User Creation and Access Control      | 4 weeks   | 01-Nov-2023 | 29-Nov-2023 | - Super Admin Dashboard<br>- User creation and management system |
+| **Milestone 1**| Registration      | 1 weeks   | 16-Dec-2024 | 22-Dec-2024 | - Guest can register his selfie with their information<br>- Guest will get their gallery link on their email<br>-  |
 | **Milestone 2**| User Registration & Dashboard with Email Verification                   | 3 weeks   | 30-Nov-2023 | 20-Dec-2023 | - User registration process<br>- Personalized User Dashboard     |
 | **Milestone 3**| Event Creation, Cameraman Assignment, and Event Expiration              | 4 weeks   | 21-Dec-2023 | 17-Jan-2024 | - Dynamic event links<br>- Cameramen login<br>- Event expiration settings |
 | **Milestone 4**| QR Generation, Brand Editor, and Guest Data Collection                  | 3 weeks   | 18-Jan-2024 | 07-Feb-2024 | - QR code generation<br>- Brand editor<br>- Guest information page |
